@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "D-Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - dummy1.qmd
+      - dummy2.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

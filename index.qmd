@@ -1,0 +1,13 @@
+---
+title: "Biograpgy"
+---
+
+![](20240218_195801173_iOS.jpg){fig-align="center" width="60%"}
+
+My name is DharmpratapSingh Vaghela. I am from Ahmedabad, Gujarat, India and I am currently pursuing my Master's in Data Analytics from George Mason University. I have completed my Bachelor's in Technology from Dharmsinh Desai University on May, 2023 with Major in Information Technology.
+
+My field of work mainly specializes in programming languages like Python, C, Swift with hands on experience in ODOO Frameworks and Android Studio. My hobbies include Playing games, doing experiments with different instruments of music and searching about new Technologies. I find joy in solving the puzzles and problems due to which I took computer science as my field to continue in future.
+
+I do love to socialize to new people and learn what they do that makes them life joyful and also I like to play Team games in my free time.
+
+This semester I am very excited to learn R and visualizations using R that would provide valuable knowledge and will get me closer to my Data Analytics journey.

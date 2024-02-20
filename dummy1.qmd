@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This site is result of project assignment given in STAT - 515 subject in R using RStudio.
+
+Hope you like it! ;)
